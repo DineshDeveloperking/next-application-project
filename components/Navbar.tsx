@@ -12,11 +12,11 @@ const Navbar = () => {
           src="/icons/logo.svg"
           width={32}
           height={32}
-          alt="Nithi's logo"
+          alt="Nithi&apos;s logo"
           className="max-sm:size-10"
         />
         <p className="text-[26px] font-extrabold text-white max-sm:hidden">
-          Nithi's Zoom
+          Nithi&apos;s Zoom
         </p>
       </Link>
       <div className="flex-between gap-5">
